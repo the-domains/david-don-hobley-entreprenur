@@ -1,7 +1,7 @@
 name: 'David Don Hobley, Entreprenur'
 favicon: null
-layout_spectrum: 0.28769389842636883
-typography_spectrum: 0.1291970727033913
+layout_spectrum: 1
+typography_spectrum: 0.96133
 title: 'David Don Hobley, Entreprenur'
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#d5d5d5'
+    - '#000000'
+    - '#ffffff'
+    - '#808080'
+    - '#555555'
   brandStrength: 0.8817830020561814
   lightness: 0.708801572676748
   saturation: 0.17145935771986842
